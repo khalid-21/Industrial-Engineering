@@ -1,2 +1,2 @@
-# Industrial
+# smart method
 perform robot tasks
